@@ -198,8 +198,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - *Geist Font* for beautiful typography
 - *React* team for the amazing framework
 
----
 
-*Built with ❤ by [Your Name]*
-
-If you found this portfolio helpful, please give it a ⭐ on GitHub!
