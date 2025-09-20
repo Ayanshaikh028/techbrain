@@ -50,7 +50,7 @@ A cutting-edge, competition-winning portfolio website built with Next.js 14, fea
 1. *Clone the repository*
    \\\`bash
    git clone https://github.com/Ayanshaikh028/techbrain.git
-   cd premium-portfolio
+   cd techbrain
    \\\`
 
 2. *Install dependencies*
